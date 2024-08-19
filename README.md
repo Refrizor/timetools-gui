@@ -19,3 +19,15 @@ Convert a given Unix timestamp back into a human-readable date and time (in UTC)
 
 3. **Returning to Menu:**
    - Each mode has a "Back to Menu" button that allows you to return to the main menu.
+
+## Attribution
+
+This project includes the following third-party libraries:
+
+- **FlatLaf:** A modern open-source cross-platform Look and Feel for Java Swing applications.
+   - Licensed under the Apache License, Version 2.0. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
+   - [FlatLaf GitHub Repository](https://github.com/JFormDesigner/FlatLaf)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
