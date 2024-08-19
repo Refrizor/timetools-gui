@@ -1,4 +1,6 @@
 Timetools GUI is a simple, user-friendly Java application that provides tools for generating and converting Unix timestamps through a GUI. Uses Java Swing to offer a clean experience for working with Unix time.
+
+This is used internally within our projects to help us.
 ## Features
 ### Generate Unix Timestamps:
 Input a specific date and time (in UTC) and convert it to a Unix timestamp.
